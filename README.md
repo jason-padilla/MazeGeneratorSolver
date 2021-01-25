@@ -12,7 +12,7 @@ a new path until it reaches its final destination (N,M).
   * Used Recursion
   * Learned Depth-First Aglorithm
   * Understandment of Breath-First Algorithm
-  * Practice positional grid movement
+  * Practiced positional grid movement
 
 # :camera: Screenshots
 Starting Canvas             |  Generated Maze
