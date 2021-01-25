@@ -8,9 +8,11 @@ and begins to solve it by finding a path from the top left corner of the maze to
 them by using a depth-frist algorithm. The program moves from cell to cell until it reaches a dead end in which it will then go back to a previous location and begin
 a new path until it reaches its final destination (N,M).
 
-# :pencil2: What I learned
-  * Practiced Recursion
-  * Depth-First Aglorithm
+# :pencil2: What I learned  
+  * Used Recursion
+  * Learned Depth-First Aglorithm
+  * Understandment of Breath-First Algorithm
+  * Practice positional grid movement
 
 # :camera: Screenshots
 Starting Canvas             |  Generated Maze
