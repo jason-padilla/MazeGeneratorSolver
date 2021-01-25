@@ -10,7 +10,7 @@ a new path until it reaches its final destination (N,M).
 
 # :pencil2: What I learned
   * Practiced Recursion
-  * Used of Depth-First Aglorithm
+  * Depth-First Aglorithm
 
 # :camera: Screenshots
 Starting Canvas             |  Generated Maze
