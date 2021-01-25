@@ -11,7 +11,6 @@ a new path until it reaches its final destination (N,M).
 # What I learned
   * Practiced Recursion
   * Used of Depth-First Aglorithm
-  * Use of .get
 
 # Screenshots
 Starting Canvas             |  Generated Maze
